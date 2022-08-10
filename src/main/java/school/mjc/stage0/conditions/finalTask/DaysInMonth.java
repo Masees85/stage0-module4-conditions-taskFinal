@@ -77,7 +77,7 @@ public class DaysInMonth
        }
        else
        {
-           System.out.println("Negative years are not accepted");
+           System.out.println("invalid date");
        }
     }
 }
