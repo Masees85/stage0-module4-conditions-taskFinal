@@ -13,7 +13,7 @@ public class BitwiseValuesSwap
         a = a ^ b;  
 
 
-       System.out.println(a + \n  +b);             
+       System.out.println(a + "\n"  +b);             
        
         
     }
