@@ -21,7 +21,7 @@ public class IntegerDivider
         }
         else
         {
-            System.out.println("cannt be divided completely");
+            System.out.println("cannot be divided completely");
         }
         }
         else
